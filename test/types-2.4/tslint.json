@@ -1,0 +1,11 @@
+{
+    "extends": "dtslint/dtslint.json",
+    "rules": {
+      "no-useless-files": false,
+      "eofline": false,
+      "prefer-const": false,
+      "no-unnecessary-generics": false,
+      "no-object-literal-type-assertion": false,
+      "no-string-throw": true
+    }
+  }

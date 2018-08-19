@@ -1,4 +1,9 @@
 {
+    "rules": {
+        "prefer-const": false,
+        "interface-name":false,
+        "no-string-throw": true
+    },
     "extends": "tslint-config-acamica"
 }
 
