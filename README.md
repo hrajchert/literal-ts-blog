@@ -1,7 +1,7 @@
 Literal Ts Blog
 ===============
 
-Code used to write the blog titled "Literal types to the test".
+Code used to write the blog titled ["Literal types to the test"](https://medium.com/@hernanrajchert/literal-types-to-the-test-fb989d2d0c4a).
 
 Created with the [TypeScript Node Starter](https://github.com/acamica/typescript-node-starter).
 
